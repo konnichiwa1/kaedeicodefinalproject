@@ -1,0 +1,81 @@
+h1{
+background-color: skyblue;
+border: 18px solid white;
+color: white;
+margin: auto;
+padding: 20px;
+text-align: center;
+font-family: "Lucida Console", "Courier New", monospace;
+}
+
+p{
+background-color: purple;
+font-family: "Lucida Console", "Courier New", monospace;
+border: 18px solid white;
+color: white;
+margin: auto;
+padding: 20px;
+text-align: center;
+}
+
+h2{
+background-color: blue;
+border: 18px solid white;
+color: white;
+padding: 20px;
+text-align: center;
+font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h3{
+background-color: skyblue;
+text-align: center;
+font-family: "Lucida Console", "Courier New", monospace;
+}
+
+body{
+background-color: pink;
+border: 18px solid white;
+color: white;
+margin: auto;
+padding: 20px;
+text-align: center;
+}
+
+img{
+background-color: purple;
+border: 18px solid white;
+border-radius: 50%;
+color: white;
+margin: auto;
+padding: 20px;
+text-align: center;
+}
+
+header{
+background-color: pink;
+text-align: center;
+}
+
+audio{
+  background-color: pink;
+}
+
+h3{
+background-color: skyblue;
+border: 18px solid white;
+color: white;
+margin: auto;
+padding: 20px;
+text-align: center;
+font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h4{
+background-color: purple;
+border: 18px solid white;
+color: white;
+padding: 20px;
+text-align: center;
+font-family: "Lucida Console", "Courier New", monospace;
+}
