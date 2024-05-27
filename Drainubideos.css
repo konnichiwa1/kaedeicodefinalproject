@@ -1,0 +1,42 @@
+body{
+background-color: pink;
+}
+
+h1{
+  background-color: purple;
+  border: 18px solid white;
+  color: white;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h2{
+  background-color: pink;
+}
+
+h3{
+  background-color: purple;
+  border: 18px solid white;
+  color: white;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h4{
+  background-color: purple;
+  border: 18px solid white;
+  color: white;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+link{
+  background-color: skyblue;
+
+}
